@@ -29,6 +29,3 @@ def guess_num():
             print('Use this lines to guide me: "Too big", "Too small", "You win"')
 
     return f"I guessed in {turns} moves!"
-
-
-print(guess_num())
